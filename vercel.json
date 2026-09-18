@@ -1,6 +1,8 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "functions": {
-    "api/evaluate.js": { "runtime": "nodejs22.x" }
+    "api/evaluate.js": {
+      "runtime": "nodejs24.x"
+    }
   }
 }
