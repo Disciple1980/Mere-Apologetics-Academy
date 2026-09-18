@@ -1,0 +1,9 @@
+{
+  "name": "Mere Apologetics Academy",
+  "short_name": "Mere Academy",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f7f9",
+  "theme_color": "#18212b",
+  "description": "Argument reconstruction and apologetics training."
+}
